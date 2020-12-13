@@ -1,4 +1,4 @@
-### Student of Robotics
+### Robotics Student
 - Major in Robotics @ Hanyang University. ERICA
 
 ### Interest
