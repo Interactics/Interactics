@@ -1,5 +1,5 @@
 ### Robotics Student
-- Major in Robotics @ Hanyang University. ERICA
+- B.S. Robotics @ Hanyang University. ERICA
 
 ### Interest
 - Human-Robot Interaction
