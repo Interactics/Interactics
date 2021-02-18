@@ -7,7 +7,7 @@
 - Emotion crated by Robot movement
 
 ### Experience
-- [Now]Robotics Control Software Intern  @ NAVER LABS 
+- [Previous]Robotics Control Software Intern  @ NAVER LABS 
 - [Previous] Research Intern at AIRO Lab @ Hanyang University. ERICA
 
 
