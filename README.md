@@ -1,4 +1,4 @@
-### Robotics Student
+### B.S. Robotics
 - B.S. Robotics @ Hanyang University. ERICA
 
 ### Interest
