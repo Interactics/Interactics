@@ -4,7 +4,7 @@
 ### Interest
 - Human-Robot Interaction
 - Natural Robot Movement & Control
-- Emotion crated by Robot movement
+- Emotion created by Robot Motion
 
 ### Experience
 - [Now] Part-timer  @ NAVER LABS 
