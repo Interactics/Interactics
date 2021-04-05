@@ -7,7 +7,6 @@
 - Emotion created by Robot Motion
 
 ### Experience
-- [Now] Part-timer  @ NAVER LABS 
 - [Previous] Robotics Control Software Intern  @ NAVER LABS 
 - [Previous] Research Intern at AIRO Lab @ Hanyang University. ERICA
 
