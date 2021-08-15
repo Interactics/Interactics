@@ -1,4 +1,4 @@
-### B.S. Robotics
+### Robotics Engineer
 - Robotics Engineer @ Floatic
 - B.S. Robotics @ Hanyang University. ERICA
 
