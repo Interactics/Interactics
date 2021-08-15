@@ -1,10 +1,12 @@
 ### B.S. Robotics
+- Robotics Engineer @ Floatic
 - B.S. Robotics @ Hanyang University. ERICA
 
 ### Interest
 - Human-Robot Interaction
 - Natural Robot Movement & Control
 - Emotion created by Robot Motion
+- Robot Control System
 
 ### Experience
 - [Previous] Robotics Control Software Intern  @ NAVER LABS 
