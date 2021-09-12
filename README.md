@@ -1,5 +1,5 @@
 ### Robotics Engineer
-- Robotics Engineer @ Floatic
+- Robotics Engineer & Co-Founder @ Floatic
 - B.S. Robotics @ Hanyang University. ERICA
 
 ### Interest
