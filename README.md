@@ -1,5 +1,5 @@
 ### Robotics Engineer
-- M.Sc Student - Mechatronics and Information Technology @ Karlsruhe Institute of technology, Germany
+- M.Sc Student - Mechatronics and Information Technology @ Karlsruhe Institute of Technology, Germany
 - B.S. Robotics @ Hanyang University. ERICA, Republic of Korea
 - [Previous] Robotics Engineer & Co-Founder @ Floatic
 - [Previous] Robotics Control Software Intern  @ NAVER LABS 
